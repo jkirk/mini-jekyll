@@ -1,0 +1,6 @@
+title: Your awesome title
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
